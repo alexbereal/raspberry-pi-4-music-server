@@ -16,3 +16,22 @@ catalogues the library so I can browse and stream it from other devices.
 This project demonstrates how I use a single Linux machine to host a media
 library, monitor system health and service availability, and manage
 containerised applications.
+
+## Screenshots
+
+### Homepage dashboard
+![Homepage dashboard](homepage.png)
+
+### System monitoring
+![Beszel system monitoring](beszel.png)
+
+### Docker management
+![Portainer Docker management](portainer.png)
+
+### Plex music library
+![Plex music library](plex.png)
+
+### Availability monitoring
+![Uptime Kuma monitoring](uptime-kuma.png)
+
+Screenshots have been edited to hide private details.
